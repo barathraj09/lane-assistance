@@ -1,6 +1,6 @@
 # lane-assistance
 
-The lane assistance project prevents accidents in sharp turns in hilly and mountainous regions. This project turns the vehicle towards the track when the vehicle is found speeding near sharp turns. This is very helpful if the driver isn't aware or is too late to recognise the turn. For this example model I have set the distance ≤ 5 cm so that the vehicle will be turned if the distance between vehicle and sensor ≤ 5 cm
+The lane assistance project prevents accidents in sharp turns in hilly and mountainous regions. This solution turns the vehicle towards the track when the vehicle is found speeding near sharp turns. This is very helpful if the driver isn't aware or is too late to recognise the turn. For this miniature model I have set the distance ≤ 5 cm so that the vehicle will be turned if the distance between vehicle and sensor ≤ 5 cm
 
 # Components Used
 
