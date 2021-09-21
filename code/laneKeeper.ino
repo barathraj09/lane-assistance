@@ -1,9 +1,3 @@
-/*
-VCC to Arduino 5V
-GND to Arduino GND
-Echo to Arduino pin 13
-Trig to Arduino pin 12
-*/
 
 #define trigPin 12
 #define echoPin 13
