@@ -13,6 +13,10 @@ These are the components I used for the small scale project. more better and pow
 * Jumper Wires
 * LED lighting
 
+# The Code
+
+the code for the project/solution is uploaded in the code folder of the repository 
+
 # Features Expected
 
 These are the features expected to be working and the features working are marked with the check box.
