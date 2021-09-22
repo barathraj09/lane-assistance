@@ -29,7 +29,7 @@ These are the features expected to be working and the features working are marke
 
 Any recommendations for features are welcome.
 
-# Completeion of Model
+# Completion of Model
 
 The electronic side of things is complete, the mountainous region has to be made and fitting of the electronic components is pending. 
 Expected completion by Sep 30 2021 - Oct 6 2021
