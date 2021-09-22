@@ -25,7 +25,7 @@ These are the features expected to be working and the features working are marke
 - [x] Sending and Receiving Signal
 - [x] Turning of Object
 - [ ] Detecting Speed of vehicle and categorisation of vehicle it is needed to be turned
-- [ ] Street Lighting using LED (optional)
+- [ ] Lane Lighting using LED (optional)
 
 Any recommendations for features are welcome.
 
